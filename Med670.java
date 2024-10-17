@@ -1,7 +1,7 @@
 //maximum swap
 
 
-    class Solution {
+    class Med670 {
         public int maximumSwap(int num) {
             char numArr[] = Integer.toString(num).toCharArray();
             int n = numArr.length;
